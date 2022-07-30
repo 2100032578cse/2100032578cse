@@ -5,6 +5,6 @@
 - 📫 How to reach me my dreams?.
 
 <!---
-2100032578cse/2100032578cse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2100032578cse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
