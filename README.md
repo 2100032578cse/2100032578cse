@@ -3,4 +3,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=2100032578cse&date_format=j%20M%5B%20Y%5D&background=42A3D5E9)](https://git.io/streak-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=2100032578cse&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=2100032578cse&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
